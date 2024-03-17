@@ -1,0 +1,21 @@
+
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+p {
+	text-align: center;
+}
+
+.banniere {
+	margin: 0;
+	padding: 50px;
+	background-color: #E6E6FA;
+	text-align: center;
+	color: #00008B;
+}
+
+h1 {
+	font-size: 4em;
+}
